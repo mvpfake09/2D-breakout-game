@@ -1,0 +1,2 @@
+In this game, you will learn how to create the atari arcade classic game, breakout. This game is also known as block breaker or brick breaker. Throughout the game, you will learn how to create the game loop, draw the paddle on the canvas, add click handlers to make the paddle move, detect collisions between the ball and make it bounce off the walls and paddle, add a running score, detect game over and reset game, and generate blocks for endless levels.
+
